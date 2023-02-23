@@ -1,0 +1,8 @@
+altair==4.2.0
+ipython==8.10.0
+ipywidgets==7.6.5
+matplotlib==3.5.1
+nltk==3.6.6
+pandas==1.2.2
+Pillow==9.4.0
+wordcloud==1.8.2.2
