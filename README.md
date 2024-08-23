@@ -51,10 +51,6 @@ python main.py
 
 Navigate to the provided local URL to access the user interface.
 
-## Contributing
-
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit pull requests, report issues, or request features.
-
 ## Acknowledgements
 
 We'd like to thank the creators and maintainers of the MovieLens, IMDB, and Movie Poster datasets for making their data available for research and development.
